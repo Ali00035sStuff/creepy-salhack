@@ -5,8 +5,6 @@
 
 ## Creepy Salhack
 Salhack is a Forge mod made by ionar. Recently, ionar has made the decision to leave the project, and as such, this project is discontinued without a main developer. 
-
-This project is **not maintained**. 
  
 ## Installation
 
