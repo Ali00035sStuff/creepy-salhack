@@ -3,7 +3,7 @@
 [![Gradle Build](https://github.com/CreepyOrb924/creepy-salhack/workflows/Gradle%20Build/badge.svg?branch=master)](https://github.com/ionar2/salhack/actions)
 [![GitHub All Releases](https://img.shields.io/github/downloads/CreepyOrb924/creepy-salhack/total.svg)](https://github.com/CreepyOrb924/creepy-salhack/releases)
 
-## Salhack
+## Creepy Salhack
 Salhack is a Forge mod made by ionar. Recently, ionar has made the decision to leave the project, and as such, this project is discontinued without a main developer. 
 
 This project is **not maintained**. 
